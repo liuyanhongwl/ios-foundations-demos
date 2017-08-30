@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A7FCE310151E578A7D3C38B1DFDAB252ECABF87D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A7FCE310151E578A7D3C38B1DFDAB252ECABF87D" : 9223372036854775807,
+    "843E609412E2871D2FAF1F8A69503507236C219F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "56417F3D-BD24-4F61-8BC4-DBF8F314E7E4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A7FCE310151E578A7D3C38B1DFDAB252ECABF87D" : "Load-Initialize\/",
+    "843E609412E2871D2FAF1F8A69503507236C219F" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Load-Initialize-Test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Load-Initialize-Test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:liuyanhongwl\/ios-foundations-examples.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "843E609412E2871D2FAF1F8A69503507236C219F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:liuyanhongwl\/Load-Initialize.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A7FCE310151E578A7D3C38B1DFDAB252ECABF87D"
+    }
+  ]
+}
