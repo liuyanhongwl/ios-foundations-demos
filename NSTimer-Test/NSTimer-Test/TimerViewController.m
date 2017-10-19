@@ -105,6 +105,9 @@
  - 有效的NSTimer会保留target，不管有没有加到runloop中
  - 打破循环引用：写NSTimer的分类，让timer的target指向NSTimer类对象。
  - 打破循环引用：在self和timer之间添加一层，使self->timer->obj--weak--> self
+ 
+ 参考：
+ - [NSTimer 使用进阶](http://www.cocoachina.com/ios/20161028/17877.html)
  */
 
 - (void)didReceiveMemoryWarning {
